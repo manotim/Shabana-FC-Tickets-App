@@ -1,0 +1,92 @@
+{
+  "fixtures": [
+    {
+      "id": "1",
+      "team": "Murang'a Seal",
+      "date": "10-04-2023",
+      "attendance": 812,
+      "kickoff": "04:00PM",
+      "logo": "https://api.sofascore.app/api/v1/team/332427/image"
+    },
+    {
+      "id": "2",
+      "team": "Mara Sugar F.C.",
+      "date": "17-04-2023",
+      "attendance": 736,
+      "kickoff": "03:00PM",
+      "logo": "https://api.sofascore.app/api/v1/team/379284/image"
+    },
+    {
+      "id": "3",
+      "team": "Migori Youth F.C.",
+      "date": "24-04-2023",
+      "attendance": 1309,
+      "kickoff": "02:00PM",
+      "logo": "https://api.sofascore.app/api/v1/team/318020/image"
+    },
+    {
+      "id": "4",
+      "team": "Kibera Black Stars",
+      "date": "30-04-2023",
+      "attendance": 1307,
+      "kickoff": "02:00PM",
+      "logo": "https://api.sofascore.app/api/v1/team/309781/image"
+    },
+    {
+      "id": "5",
+      "team": "Naivas FC",
+      "date": "06-05-2023",
+      "attendance": 1005,
+      "kickoff": "02:30PM",
+      "logo": "https://api.sofascore.app/api/v1/team/257402/image"
+    },
+    {
+      "id": "6",
+      "team": "Kisumu All Stars FC",
+      "date": "13-05-2023",
+      "attendance": 1708,
+      "kickoff": "03:30PM",
+      "logo": "https://api.sofascore.app/api/v1/team/318563/image"
+    },
+    {
+      "id": "7",
+      "team": "Darajani Gogo FC",
+      "date": "19-05-2023",
+      "attendance": 605,
+      "kickoff": "01:30PM",
+      "logo": "https://api.sofascore.app/api/v1/team/457087/image"
+    },
+    {
+      "id": "8",
+      "team": "Gusii FC",
+      "date": "26-05-2023",
+      "attendance": 2307,
+      "kickoff": "03:00PM",
+      "logo": "https://api.sofascore.app/api/v1/team/397131/image"
+    },
+    {
+      "id": "9",
+      "team": "Mombasa Elite",
+      "date": "03-06-2023",
+      "attendance": 305,
+      "kickoff": "03:15PM",
+      "logo": "https://api.sofascore.app/api/v1/team/397162/image"
+    },
+    {
+      "id": "10",
+      "team": "Coastal Heroes",
+      "date": "10-06-2023",
+      "attendance": 256,
+      "kickoff": "01:15PM",
+      "logo": "https://api.sofascore.app/api/v1/team/257441/image"
+    },
+    {
+      "id": "11",
+      "team": "MCF FC",
+      "date": "16-06-2023",
+      "attendance": 259,
+      "kickoff": "04:45PM",
+      "logo": "https://api.sofascore.app/api/v1/team/373464/image"
+    }
+  ]
+}
