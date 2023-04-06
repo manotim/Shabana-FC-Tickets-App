@@ -97,7 +97,7 @@ function createNewGame(e) {
         logo: clubLogo.value,
         date: matchDay.value,
         kickoff: kickoff.value,
-        attendance: 0
+        attendance: 50000
     }
     fetch("http://localhost:3000/fixtures", {
         method: 'POST',
