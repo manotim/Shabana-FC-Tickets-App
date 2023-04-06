@@ -4,7 +4,7 @@
       "id": "1",
       "team": "Murang'a Seal",
       "date": "10-04-2023",
-      "attendance": 812,
+      "attendance": 813,
       "kickoff": "04:00PM",
       "logo": "https://api.sofascore.app/api/v1/team/332427/image"
     },
@@ -12,7 +12,7 @@
       "id": "2",
       "team": "Mara Sugar F.C.",
       "date": "17-04-2023",
-      "attendance": 736,
+      "attendance": 737,
       "kickoff": "03:00PM",
       "logo": "https://api.sofascore.app/api/v1/team/379284/image"
     },
@@ -52,7 +52,7 @@
       "id": "7",
       "team": "Darajani Gogo FC",
       "date": "19-05-2023",
-      "attendance": 605,
+      "attendance": 606,
       "kickoff": "01:30PM",
       "logo": "https://api.sofascore.app/api/v1/team/457087/image"
     },
@@ -60,7 +60,7 @@
       "id": "8",
       "team": "Gusii FC",
       "date": "26-05-2023",
-      "attendance": 2307,
+      "attendance": 2310,
       "kickoff": "03:00PM",
       "logo": "https://api.sofascore.app/api/v1/team/397131/image"
     },
@@ -87,6 +87,22 @@
       "attendance": 259,
       "kickoff": "04:45PM",
       "logo": "https://api.sofascore.app/api/v1/team/373464/image"
+    },
+    {
+      "team": "Chelsea",
+      "logo": "https://api.sofascore.app/api/v1/team/38/image",
+      "date": "01-01-2023",
+      "kickoff": "05:00PM",
+      "attendance": 50000,
+      "id": "UnYTBIH"
+    },
+    {
+      "team": "Kiburi FC",
+      "logo": "https://api.sofascore.app/api/v1/team/35/image",
+      "date": "01-01-2023",
+      "kickoff": "02:30PM",
+      "attendance": 50000,
+      "id": "RE2ytk1"
     }
   ]
 }
