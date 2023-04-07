@@ -1,7 +1,7 @@
 # Shabana-FC-Tickets-App
 Shabana Tickets app is a web app that help fans to the club commit their attendance to the cclub's upcoming matches. The page has a list of upcoming fixtures each held in a card where a user can commit their attendance which is visible to all. Users can also submit their desired clubs which they would wish the club administration to plan and arrange a friendly match with. 
 
-![Page  Preview](https://ibb.co/XSZh5Qg.png)
+![Page  Preview](https://drive.google.com/file/d/1Ftcon4egSdxrAkkUOhs7Zeb22_9vD7bF/view?usp=share_link)
 
 
 # Description
