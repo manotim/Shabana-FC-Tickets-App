@@ -2,19 +2,19 @@
   "fixtures": [
     {
       "id": "1",
-      "team": "Murang'a Seal",
+      "team": "Gor Mahia F.C.",
       "date": "10-04-2023",
       "attendance": 813,
       "kickoff": "04:00PM",
-      "logo": "https://api.sofascore.app/api/v1/team/332427/image"
+      "logo": "https://api.sofascore.app/api/v1/team/134306/image"
     },
     {
       "id": "2",
-      "team": "Mara Sugar F.C.",
+      "team": "Murang'a Seal F.C.",
       "date": "17-04-2023",
       "attendance": 737,
       "kickoff": "03:00PM",
-      "logo": "https://api.sofascore.app/api/v1/team/379284/image"
+      "logo": "https://api.sofascore.app/api/v1/team/332427/image"
     },
     {
       "id": "3",
