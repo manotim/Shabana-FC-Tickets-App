@@ -12,7 +12,7 @@
       "id": "2",
       "team": "Murang'a Seal F.C.",
       "date": "17-04-2023",
-      "attendance": 737,
+      "attendance": 738,
       "kickoff": "03:00PM",
       "logo": "https://api.sofascore.app/api/v1/team/332427/image"
     },
@@ -87,22 +87,6 @@
       "attendance": 259,
       "kickoff": "04:45PM",
       "logo": "https://api.sofascore.app/api/v1/team/373464/image"
-    },
-    {
-      "team": "Chelsea",
-      "logo": "https://api.sofascore.app/api/v1/team/38/image",
-      "date": "01-01-2023",
-      "kickoff": "05:00PM",
-      "attendance": 50000,
-      "id": "UnYTBIH"
-    },
-    {
-      "team": "Kiburi FC",
-      "logo": "https://api.sofascore.app/api/v1/team/35/image",
-      "date": "01-01-2023",
-      "kickoff": "02:30PM",
-      "attendance": 50000,
-      "id": "RE2ytk1"
     }
   ]
 }
