@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 * {
-    margin: 0;
+    margin: 20;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body {
